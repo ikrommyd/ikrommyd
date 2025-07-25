@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-:atom: Particle Physicist | 🛠️ Tools Enthusiast  
+⚛️ Particle Physicist | 🛠️ Tools Enthusiast  
 🎓 PhD Student in High-Energy Physics at [Rice University](https://rice.edu)  
-:atom: Working on the [CMS Experiment](https://home.cern/science/experiments/cms) at the LHC  
+⚛️ Working on the [CMS Experiment](https://home.cern/science/experiments/cms) at the LHC  
 💻 Experienced in **Scientific Computing** & **Scientific Python**  
 ❤️ Passionate about building **open source tools** to drive scientific insight  
 🛠️ Recently focused on [Awkward Array](https://github.com/scikit-hep/awkward) & [Coffea](https://github.com/scikit-hep/coffea); regular contributor to **Awkward Array** and author/maintainer of **Coffea**
