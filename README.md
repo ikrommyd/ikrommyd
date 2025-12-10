@@ -5,7 +5,7 @@
 ⚛️ Working on the [CMS Experiment](https://home.cern/science/experiments/cms) at the LHC  
 💻 Experienced in **Scientific Computing** & **Scientific Python**  
 ❤️ Passionate about building **open source tools** to drive scientific insight  
-🛠️ Recently focused on [Awkward Array](https://github.com/scikit-hep/awkward) & [Coffea](https://github.com/scikit-hep/coffea); regular contributor to **Awkward Array** and author/maintainer of **Coffea**
+🛠️ Recently focused on [Awkward Array](https://github.com/scikit-hep/awkward) & [Coffea](https://github.com/scikit-hep/coffea); as a maintainer to both and author of **Coffea**
 
 <table>
   <tr>
