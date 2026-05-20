@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Iason Krommydas' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3144, Total PRs: 443, Total PRs Merged: 399, Merged PRs Percentage: 90.07, Total PRs Reviewed: 113, Total Issues: 168, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 53</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3145, Total PRs: 443, Total PRs Merged: 400, Merged PRs Percentage: 90.29, Total PRs Reviewed: 114, Total Issues: 170, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 54</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.07234469799486;
+        stroke-dashoffset: 71.05834444236578;
       }
     }
   
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >399</text>
+      >400</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >90.07 %</text>
+      >90.29 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -226,7 +226,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >113</text>
+      >114</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -241,7 +241,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >168</text>
+      >170</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
@@ -286,7 +286,7 @@
         x="219.01"
         y="12.5"
         data-testid="contribs"
-      >53</text>
+      >54</text>
     </g>
   </g>
     </svg>
