@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Iason Krommydas' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3076, Total PRs: 444, Total PRs Merged: 402, Merged PRs Percentage: 90.54, Total PRs Reviewed: 115, Total Issues: 173, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 52</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3077, Total PRs: 445, Total PRs Merged: 403, Merged PRs Percentage: 90.56, Total PRs Reviewed: 115, Total Issues: 173, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 52</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.27346172651566;
+        stroke-dashoffset: 71.26818380989089;
       }
     }
   
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >444</text>
+      >445</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >402</text>
+      >403</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >90.54 %</text>
+      >90.56 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
