@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Iason Krommydas' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3078, Total PRs: 446, Total PRs Merged: 404, Merged PRs Percentage: 90.58, Total PRs Reviewed: 115, Total Issues: 173, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 52</desc>
+        <desc id="descId">Total Stars Earned: 20, Total Commits  : 3079, Total PRs: 448, Total PRs Merged: 405, Merged PRs Percentage: 90.40, Total PRs Reviewed: 116, Total Issues: 173, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 52</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 71.08693396703555;
+        stroke-dashoffset: 71.07994977786511;
       }
     }
   
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >446</text>
+      >448</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >404</text>
+      >405</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >90.58 %</text>
+      >90.40 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -226,7 +226,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >115</text>
+      >116</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
