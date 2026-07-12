@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Iason Krommydas' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4164, Total PRs: 464, Total PRs Merged: 418, Merged PRs Percentage: 90.09, Total PRs Reviewed: 136, Total Issues: 176, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 50</desc>
+        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4166, Total PRs: 465, Total PRs Merged: 420, Merged PRs Percentage: 90.32, Total PRs Reviewed: 144, Total Issues: 177, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 50</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.5923085310077;
+        stroke-dashoffset: 66.42609114469121;
       }
     }
   
@@ -132,7 +132,7 @@
           Top
         </text>
         <text x="-5" y="12" alignment-baseline="central" dominant-baseline="central" text-anchor="middle" data-testid="percentile-rank-value" class="rank-percentile-text">
-          26.5%
+          26.4%
         </text>
       
         </g>
@@ -181,7 +181,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs"
-      >464</text>
+      >465</text>
     </g>
   </g><g transform="translate(0, 75)">
     <g class="stagger" style="animation-delay: 900ms" transform="translate(25, 0)">
@@ -196,7 +196,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged"
-      >418</text>
+      >420</text>
     </g>
   </g><g transform="translate(0, 100)">
     <g class="stagger" style="animation-delay: 1050ms" transform="translate(25, 0)">
@@ -211,7 +211,7 @@
         x="219.01"
         y="12.5"
         data-testid="prs_merged_percentage"
-      >90.09 %</text>
+      >90.32 %</text>
     </g>
   </g><g transform="translate(0, 125)">
     <g class="stagger" style="animation-delay: 1200ms" transform="translate(25, 0)">
@@ -226,7 +226,7 @@
         x="219.01"
         y="12.5"
         data-testid="reviews"
-      >136</text>
+      >144</text>
     </g>
   </g><g transform="translate(0, 150)">
     <g class="stagger" style="animation-delay: 1350ms" transform="translate(25, 0)">
@@ -241,7 +241,7 @@
         x="219.01"
         y="12.5"
         data-testid="issues"
-      >176</text>
+      >177</text>
     </g>
   </g><g transform="translate(0, 175)">
     <g class="stagger" style="animation-delay: 1500ms" transform="translate(25, 0)">
