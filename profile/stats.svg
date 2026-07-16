@@ -9,7 +9,7 @@
         aria-labelledby="descId"
       >
         <title id="titleId">Iason Krommydas' GitHub Stats, Rank: A-</title>
-        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4168, Total PRs: 467, Total PRs Merged: 421, Merged PRs Percentage: 90.15, Total PRs Reviewed: 141, Total Issues: 177, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 49</desc>
+        <desc id="descId">Total Stars Earned: 22, Total Commits  : 4169, Total PRs: 467, Total PRs Merged: 421, Merged PRs Percentage: 90.15, Total PRs Reviewed: 141, Total Issues: 177, Total Discussions Started: 9, Total Discussions Answered: 3, Contributed to (last year): 49</desc>
         <style>
           .header {
             font: 600 18px 'Segoe UI', Ubuntu, Sans-Serif;
@@ -73,7 +73,7 @@
         stroke-dashoffset: 251.32741228718345;
       }
       to {
-        stroke-dashoffset: 66.42013283349596;
+        stroke-dashoffset: 66.41851821269881;
       }
     }
   
