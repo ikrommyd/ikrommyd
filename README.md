@@ -10,10 +10,10 @@
 <table>
   <tr>
     <td>
-      <img align="center" src="./profile/stats.svg" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api?username=ikrommyd&amp;include_all_commits=true&amp;show=reviews,discussions_started,discussions_answered,prs_merged,prs_merged_percentage&amp;rank_icon=percentile&amp;show_icons=true&amp;hide_title=true&amp;hide_border=true&amp;theme=tokyonight" />
     </td>
     <td>
-      <img align="center" src="./profile/top-langs.svg" />
+      <img align="center" src="https://github-stats-extended.vercel.app/api/top-langs/?username=ikrommyd&amp;hide=jupyter%20notebook&amp;hide_border=true&amp;theme=tokyonight" />
     </td>
   </tr>
 </table>
