@@ -1,9 +1,9 @@
 ## Hi there 👋
 
-🛠️ [NumPy](https://github.com/numpy) and [Scikit-HEP](https://github.com/scikit-hep] core developer
+🛠️ [NumPy](https://github.com/numpy) and [Scikit-HEP](https://github.com/scikit-hep) core developer  
 ⚛️ Particle Physicist | 🛠️ Tools Enthusiast  
 🎓 PhD Student in High-Energy Physics at [Rice University](https://rice.edu)  
-⚛️ Working on the [CMS Experiment](https://home.cern/science/experiments/cms) at the LHC at CERN
+⚛️ Working on the [CMS Experiment](https://home.cern/science/experiments/cms) at the LHC at CERN  
 💻 Experienced in **Scientific Computing** & **Scientific Python**  
 ❤️ Passionate about building **open source tools** to drive scientific insight  
 
